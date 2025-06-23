@@ -1,1 +1,2 @@
 初期登録
+develop worldで更新されました
